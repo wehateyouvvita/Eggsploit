@@ -1,2 +1,2 @@
 # Eggsploit
-Eggsploit is a revival server destroyer. Inject using Extreme Injector into the client process.
+Eggsploit is an exploit for old roblox clients. To use, inject the .dll file into the client process using Extreme Injector, or apps similar to it.
